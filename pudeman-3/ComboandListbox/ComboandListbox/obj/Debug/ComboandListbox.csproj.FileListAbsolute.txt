@@ -1,0 +1,12 @@
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\bin\Debug\ComboandListbox.exe.config
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\bin\Debug\ComboandListbox.exe
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\bin\Debug\ComboandListbox.pdb
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.Form1.resources
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.exe
+E:\dorusFanni\Csharp(saale11)\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-3\ComboandListbox\ComboandListbox\bin\Debug\ComboandListbox.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-3\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-3\ComboandListbox\ComboandListbox\obj\Debug\ComboandListbox.pdb

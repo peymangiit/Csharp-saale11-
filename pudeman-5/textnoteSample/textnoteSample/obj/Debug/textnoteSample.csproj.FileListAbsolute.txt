@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\bin\Debug\textnoteSample.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\bin\Debug\textnoteSample.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\bin\Debug\textnoteSample.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\obj\Debug\textnoteSample.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\obj\Debug\textnoteSample.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\obj\Debug\textnoteSample.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\obj\Debug\textnoteSample.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\obj\Debug\textnoteSample.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\textnoteSample\textnoteSample\obj\Debug\textnoteSample.pdb

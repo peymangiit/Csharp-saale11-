@@ -1,0 +1,10 @@
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\Dictionary\Dictionary\bin\Debug\Dictionary.accdb

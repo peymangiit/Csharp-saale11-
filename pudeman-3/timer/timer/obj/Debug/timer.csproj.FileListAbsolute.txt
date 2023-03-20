@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\timer\timer\bin\Debug\timer.exe.config
+E:\dorusFanni\Csharp(saale11)\timer\timer\bin\Debug\timer.exe
+E:\dorusFanni\Csharp(saale11)\timer\timer\bin\Debug\timer.pdb
+E:\dorusFanni\Csharp(saale11)\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\timer\timer\obj\Debug\timer.Form1.resources
+E:\dorusFanni\Csharp(saale11)\timer\timer\obj\Debug\timer.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\timer\timer\obj\Debug\timer.exe
+E:\dorusFanni\Csharp(saale11)\timer\timer\obj\Debug\timer.pdb

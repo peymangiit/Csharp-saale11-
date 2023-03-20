@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\bin\Debug\waterConsumtion.exe.config
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\bin\Debug\waterConsumtion.exe
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\bin\Debug\waterConsumtion.pdb
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\obj\Debug\waterConsumtion.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\obj\Debug\waterConsumtion.Form1.resources
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\obj\Debug\waterConsumtion.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\obj\Debug\waterConsumtion.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\obj\Debug\waterConsumtion.exe
+E:\dorusFanni\Csharp(saale11)\waterConsumtion\waterConsumtion\obj\Debug\waterConsumtion.pdb

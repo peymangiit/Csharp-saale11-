@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\userInfoForm\userInfoForm\bin\Debug\userInfoForm.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\bin\Debug\userInfoForm.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\bin\Debug\userInfoForm.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\bin\Debug\userInfoForm.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\obj\Debug\userInfoForm.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\obj\Debug\userInfoForm.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\obj\Debug\userInfoForm.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\obj\Debug\userInfoForm.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-3\userInfoForm\userInfoForm\obj\Debug\userInfoForm.pdb

@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\bin\Debug\saveFormText.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\bin\Debug\saveFormText.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\bin\Debug\saveFormText.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\obj\Debug\saveFormText.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\obj\Debug\saveFormText.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\obj\Debug\saveFormText.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\obj\Debug\saveFormText.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\obj\Debug\saveFormText.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\saveFormText\saveFormText\obj\Debug\saveFormText.pdb

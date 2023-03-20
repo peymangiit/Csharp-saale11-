@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\bin\Debug\mashahir.exe.config
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\bin\Debug\mashahir.exe
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\bin\Debug\mashahir.pdb
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\obj\Debug\mashahir.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\obj\Debug\mashahir.Form1.resources
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\obj\Debug\mashahir.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\obj\Debug\mashahir.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\obj\Debug\mashahir.exe
+E:\dorusFanni\Csharp(saale11)\mashahir\mashahir\obj\Debug\mashahir.pdb

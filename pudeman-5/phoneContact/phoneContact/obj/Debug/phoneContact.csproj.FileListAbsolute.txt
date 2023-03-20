@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\bin\Debug\phoneContact.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\bin\Debug\phoneContact.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\bin\Debug\phoneContact.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\obj\Debug\phoneContact.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\obj\Debug\phoneContact.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\obj\Debug\phoneContact.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\obj\Debug\phoneContact.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\obj\Debug\phoneContact.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\phoneContact\phoneContact\obj\Debug\phoneContact.csprojResolveAssemblyReference.cache

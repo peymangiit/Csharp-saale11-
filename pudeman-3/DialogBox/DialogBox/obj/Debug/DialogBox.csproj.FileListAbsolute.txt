@@ -1,0 +1,12 @@
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\bin\Debug\DialogBox.exe
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\bin\Debug\DialogBox.pdb
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\obj\Debug\DialogBox.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\obj\Debug\DialogBox.Form1.resources
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+E:\dorusFanni\Csharp(saale11)\DialogBox\DialogBox\obj\Debug\DialogBox.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-3\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-3\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-3\DialogBox\DialogBox\obj\Debug\DialogBox.pdb

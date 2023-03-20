@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\bin\Debug\groupcontrolandRandom.exe.config
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\bin\Debug\groupcontrolandRandom.exe
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\bin\Debug\groupcontrolandRandom.pdb
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\obj\Debug\groupcontrolandRandom.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\obj\Debug\groupcontrolandRandom.Form1.resources
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\obj\Debug\groupcontrolandRandom.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\obj\Debug\groupcontrolandRandom.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\obj\Debug\groupcontrolandRandom.exe
+E:\dorusFanni\Csharp(saale11)\groupcontrolandRandom\groupcontrolandRandom\obj\Debug\groupcontrolandRandom.pdb

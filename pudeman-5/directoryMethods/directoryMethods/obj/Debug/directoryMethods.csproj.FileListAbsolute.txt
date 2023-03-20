@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\bin\Debug\directoryMethods.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\bin\Debug\directoryMethods.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\bin\Debug\directoryMethods.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\obj\Debug\directoryMethods.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\obj\Debug\directoryMethods.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\obj\Debug\directoryMethods.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\obj\Debug\directoryMethods.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\obj\Debug\directoryMethods.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-5\directoryMethods\directoryMethods\obj\Debug\directoryMethods.pdb

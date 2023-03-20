@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\bin\Debug\login-form.exe.config
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\bin\Debug\login-form.exe
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\bin\Debug\login-form.pdb
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\obj\Debug\login-form.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\obj\Debug\login_form.Form1.resources
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\obj\Debug\login_form.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\obj\Debug\login-form.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\obj\Debug\login-form.exe
+E:\dorusFanni\Csharp(saale11)\login-form\login-form\obj\Debug\login-form.pdb

@@ -1,0 +1,17 @@
+E:\dorusFanni\Csharp(saale11)\Album\Album\bin\Debug\Album.exe.config
+E:\dorusFanni\Csharp(saale11)\Album\Album\bin\Debug\Album.exe
+E:\dorusFanni\Csharp(saale11)\Album\Album\bin\Debug\Album.pdb
+E:\dorusFanni\Csharp(saale11)\Album\Album\obj\Debug\Album.Form1.resources
+E:\dorusFanni\Csharp(saale11)\Album\Album\obj\Debug\Album.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\Album\Album\obj\Debug\Album.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\Album\Album\obj\Debug\Album.exe
+E:\dorusFanni\Csharp(saale11)\Album\Album\obj\Debug\Album.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\bin\Debug\Album.exe.config
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\obj\Debug\Album.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\obj\Debug\Album.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\bin\Debug\Album.exe
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\bin\Debug\Album.pdb
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\obj\Debug\Album.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\obj\Debug\Album.Form1.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\obj\Debug\Album.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\pudeman-3\Album\Album\obj\Debug\Album.csproj.GenerateResource.Cache

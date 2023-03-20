@@ -1,0 +1,9 @@
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\bin\Debug\numbersOperators.exe.config
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\bin\Debug\numbersOperators.exe
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\bin\Debug\numbersOperators.pdb
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\obj\Debug\numbersOperators.csprojResolveAssemblyReference.cache
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\obj\Debug\numbersOperators.Form1.resources
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\obj\Debug\numbersOperators.Properties.Resources.resources
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\obj\Debug\numbersOperators.csproj.GenerateResource.Cache
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\obj\Debug\numbersOperators.exe
+E:\dorusFanni\Csharp(saale11)\numbersOperators\numbersOperators\obj\Debug\numbersOperators.pdb
